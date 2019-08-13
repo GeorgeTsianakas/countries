@@ -1,0 +1,9 @@
+#output {
+  opacity: 0;
+}
+tbody tr {
+  background-color: aquamarine;
+}
+body {
+  background-color: antiquewhite;
+}
